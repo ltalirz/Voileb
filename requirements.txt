@@ -1,4 +1,3 @@
-json
-mpld3
-numpy
-matplotlib
+panel~=0.10.2
+notebook~=6.1.4
+numpy~=1.19.4
