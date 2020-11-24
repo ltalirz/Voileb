@@ -1,0 +1,6 @@
+json
+voila
+mpld3
+numpy
+pyiast
+matplotlib
